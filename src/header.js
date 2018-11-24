@@ -1,6 +1,4 @@
 import React from "react";
-import {Media} from "mdbreact";
-import thumbnail from './thumbnail.png';
 
 class HeaderPage extends React.Component {
 render() {
